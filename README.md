@@ -1,0 +1,2 @@
+# Enigma-Machine
+This machine executes by running the wheelimp file and prompts the user for a username and password. If the login information is incorrect it asks the user again, until the correct information is entered. It then asks the user if they want to encrypt or decrpyt a file. If they encrypt it will encrypt a text file into a dat file and print the end wheel positions. If they decrypt it will ask for the end wheel positions and decrypt a dat file into a text file.  
